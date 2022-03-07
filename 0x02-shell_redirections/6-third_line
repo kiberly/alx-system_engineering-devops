@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n 3p /iacta
+cat icata |head -3 | tail -1
