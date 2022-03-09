@@ -1,0 +1,22 @@
+#!/bin/bash
+ total 52
+drwxr-xr-x 9 marine marine 4096 Jun 24  2021 .
+drwxr-xr-x 3 root   root   4096 Jun 10  2021 ..
+-rw------- 1 marine marine 2531 Mar  9 22:22 .bash_history
+-rw-r--r-- 1 marine marine  220 Jun 10  2021 .bash_logout
+-rw-r--r-- 1 marine marine 3771 Jun 10  2021 .bashrc
+drwxr-xr-x 3 marine marine 4096 Jun 10  2021 .cache
+drwx------ 3 marine marine 4096 Jun 10  2021 .config
+-rw-r--r-- 1 marine marine  807 Jun 10  2021 .profile
+drwx------ 2 marine marine 4096 Jun 15  2021 .ssh
+-rw-r--r-- 1 marine marine    0 Jun 10  2021 .sudo_as_admin_successful
+drwxr-xr-x 4 marine marine 4096 Jun 17  2021 Application
+drwxr-xr-x 4 marine marine 4096 Jun 17  2021 Application2
+drwxr-xr-x 2 marine marine 4096 Jun 17  2021 Source
+-rw-r--r-- 1 marine marine    0 Jun 17  2021 aApplication
+-rw-r--r-- 1 marine marine    0 Jun 17  2021 fichier1
+-rw-r--r-- 1 marine marine    0 Jun 17  2021 fichier2
+-rw-r--r-- 1 marine marine    0 Jun 17  2021 image1.png
+-rw-r--r-- 1 marine marine    0 Jun 17  2021 image2.png
+drwxr-xr-x 2 marine marine 4096 Jun 17  2021 mkdir
+-rw-r--r-- 1 marine marine    0 Jun 17  2021 source ls_cwd_content
