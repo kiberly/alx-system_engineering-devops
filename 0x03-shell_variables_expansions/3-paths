@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH=$PATH:/action
+export$PATH | cut -d ":" --output- delimiter=$'\n' -f 1- | wc -i  
